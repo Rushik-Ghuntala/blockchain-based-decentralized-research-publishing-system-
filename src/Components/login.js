@@ -50,13 +50,13 @@ function Login(props) {
         </button>
       </Link>
       <br></br>
-      <Link to="/developerspace">
+      {/* <Link to="/developerspace">
         <button
           className="btn btn-primary"
         >
           Developer's Information
         </button>
-      </Link>
+      </Link> */}
       <br></br>
 
       {/* for books animation */}
